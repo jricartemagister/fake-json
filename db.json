@@ -18,5 +18,21 @@
   {
     "id": 5,
     "name": "Cinco"
+  },
+  {
+    "id": 6,
+    "name": "Seis"
+  },
+  {
+    "id": 7,
+    "name": "Siete"
+  },
+  {
+    "id": 8,
+    "name": "Ocho"
+  },
+  {
+    "id": 9,
+    "name": "Nueve"
   }
 ]
